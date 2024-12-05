@@ -1,6 +1,6 @@
 # <center><img src="SPP LOGO.png" height="325"></center>
 ## Information
-<b>S</b>chool <b>P</b>lus <b>P</b>lus is your favorite programing language. Its currently in its Early Beta Stages, so please give me some reconmendations and report bugs.
+<b>S</b>chool <b>P</b>lus <b>P</b>lus is your favorite programming language. Its currently in its Early Beta Stages, so please give me some recommendations and report bugs
 <br> <br>
 Have fun with code!
 <br>
