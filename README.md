@@ -1,11 +1,10 @@
 # <center><img src="SPP LOGO.png" height="325"></center>
 ## Information
-<b>S</b>chool <b>P</b>lus <b>P</b>lus is your favorite programing language. It's in the early stages
-of its timeline.
+<b>S</b>chool <b>P</b>lus <b>P</b>lus is your favorite programing language. Its currently in its Early Beta Stages, so please give me some reconmendations and report bugs.
 <br>
 Have fun with code!
 <br>
-Improvments coming soon!
+Improvments & More Information coming soon!
 <br>
 <br>
 
